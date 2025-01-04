@@ -1,11 +1,11 @@
-import { Wrench, Shield, Trophy, Tool } from "lucide-react";
+import { Wrench, Shield, Trophy, Settings } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const services = [
   {
     title: "Modificaciones 4x4",
     description: "Elevación, snorkel, winch y más",
-    icon: Tool,
+    icon: Settings,
   },
   {
     title: "Mantenimiento Especializado",
